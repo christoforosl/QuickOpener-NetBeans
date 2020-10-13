@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-OpenIDE-Module-Layer: me/dsnet/quickopener/layer.xml
-OpenIDE-Module-Localizing-Bundle: me/dsnet/quickopener/Bundle.properties
-
